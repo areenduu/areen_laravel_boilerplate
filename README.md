@@ -18,9 +18,15 @@ KELAS  : PENGKODEAN DAN PEMROGRAMAN F
 
 
 
-REFERENSI GITHUB: https://github.com/rappasoft/laravel-boilerplate
+REFERENSI GITHUB:
 
-PROGRAM AFTER: https://github.com/areenduu/areen_laravel_boilerplate
+
+https://github.com/rappasoft/laravel-boilerplate
+
+PROGRAM AFTER: https:
+
+
+//github.com/areenduu/areen_laravel_boilerplate
 
 
 
