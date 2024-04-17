@@ -23,10 +23,10 @@ REFERENSI GITHUB:
 
 https://github.com/rappasoft/laravel-boilerplate
 
-PROGRAM AFTER: https:
+PROGRAM AFTER: 
 
 
-//github.com/areenduu/areen_laravel_boilerplate
+https://github.com/areenduu/areen_laravel_boilerplate
 
 
 
